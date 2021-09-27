@@ -19,8 +19,8 @@ HashMap, etc..; Experienced coding in different languages, such as C++, Java, an
 Android Studio in Java coding language.
 
 ## Education 
-* B.S. in Computer Science, University of California San Diego, 2022 (expected)
-
+- B.S. in Computer Science, University of California San Diego, 2022 (expected)
+  * GPA: 3.43
 ## Experience 
 ### **Classhouse Android**, La Jolla, CA. Apr/2021 - Now
 #### Project Manager and Developer
