@@ -12,12 +12,7 @@ I am a senior level student who is currently pursuing a bachelor’s degree in C
 
 Projects
 ======
-- **Classhouse Android at Triple C UCSD**, La Jolla, CA,  Apr 2021 - Present
-  * Product Manager & Developer
- - **Educational Android at Triple C UCSD**, La Jolla, CA, Oct 2020 - Mar 2021
-   * Product Manager & Developer
- - **Pomodoro Timer**, La Jolla, CA, Jun 2021 - Mar 2021
-   * Front-end developer
+
  
 
 
