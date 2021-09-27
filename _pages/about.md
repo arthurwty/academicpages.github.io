@@ -12,7 +12,7 @@ I am a senior level student who is currently pursuing a bachelor’s degree in C
 
 Skills & Hobbies
 ======
- - Video editing [samples](https://www.bilibili.com/video/BV1WW411n7x8?spm_id_from=333.999.0.0)
+ - Video editing [samples](https://space.bilibili.com/9980704/video)
  - Guitar player
  - Experienced arranging and conducting in an orchestra [video of performance](https://youtu.be/OPd-zzu139o)
  - Excellent cook!
