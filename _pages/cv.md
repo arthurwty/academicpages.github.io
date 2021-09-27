@@ -50,6 +50,7 @@ Android Studio in Java coding language.
   * Learned the industry process of developing projects like Agile in a team
   
 ### Skills & Activities
+
 * Knowledge of C, C++, and Java coding languages
 * Knowledge of data structures like Graphs and Trees, etc.
 * Knowledge of Android mobile developing
