@@ -16,6 +16,7 @@ Skills & Hobbies
  - Guitar player
  - Experienced arranging and conducting in an orchestra [video of performance](https://youtu.be/OPd-zzu139o)
  - Excellent cook!
+ - Anime & Games lover
 
  
 
