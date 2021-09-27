@@ -49,7 +49,7 @@ Android Studio in Java coding language.
   * Improved knowledge about front-end web developing
   * Learned the industry process of developing projects like Agile in a team
   
-### Skills & Activities
+## Skills & Activities
 
 * Knowledge of C, C++, and Java coding languages
 * Knowledge of data structures like Graphs and Trees, etc.
