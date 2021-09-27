@@ -25,7 +25,7 @@ Android Studio in Java coding language.
 
 ## Experience 
 ### **Classhouse Android**, La Jolla, CA. Apr/2021 - Now
-#### Project Manager and Developer
+### Project Manager and Developer
   * Collaborated with a team of 14 and build an Android mobile app
   * Scheduled weekly group meetings and assign programming tasks to team members
   * Built different pages for the product, including the login page and home page, with Android components
@@ -34,7 +34,7 @@ Android Studio in Java coding language.
   * Developed the knowledge about using Firebase and Firestore as the back-end database of the product
 
 ### **Triple C at UCSD**, La Jolla, CA. Oct/2020 - Mar/2021
-#### Project Manager and Developer
+### Project Manager and Developer
   * Collaborated with a team of 6 to build 2048 game in Android
   * Advised and guided team members to obtain resources and learn knowledge about Android mobile development using google codelab
   * Designed the user interface for the 2048 game with team members
@@ -43,7 +43,7 @@ Android Studio in Java coding language.
   * Improved the ability to work within a team
 
 ### **In Class Project - Pomodoro Timer**, La Jolla, CA. Jan/2021 - Mar/2021
-#### Frone-end Developer
+### Frone-end Developer
   * Programmed HTML, CSS, and JavaScript files for the pomodoro timer as designed
   * Designed the user interface, including deciding the main theme, of our timer
   * Improved knowledge about front-end web developing
