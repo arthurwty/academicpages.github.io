@@ -20,7 +20,7 @@ Android Studio in Java coding language.
 
 ## Education 
 - B.S. in Computer Science, University of California San Diego, 2022 (expected)
-  * GPA: 3.43
+  * GPA: 3.48
 
 
 ## Experience 
