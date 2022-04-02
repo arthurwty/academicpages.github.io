@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-- **Classhouse Android at Triple C UCSD**, La Jolla, CA,  Apr 2021 - Present
+- **[Classhouse Android at Triple C UCSD](https://classhouse.elementor.cloud/product-from-xian/)**, La Jolla, CA,  Apr 2021 - Present
   * Product Manager & Developer
  - **[Educational Android at Triple C UCSD](https://github.com/arthurwty/AndroidEducational)**, La Jolla, CA, Oct 2020 - Mar 2021
    * Product Manager & Developer
